@@ -1,7 +1,7 @@
 # Advanced_Search_Algorithms
 Course Name : AI Principles 
 
-Assignment - Advanced Search Algorithms
+Assignment3 - Advanced Search Algorithms
 
 Name : Selamawit Siferh 
 
